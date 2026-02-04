@@ -1,0 +1,6 @@
+framework module hosted_ios_plugin {
+  umbrella header "hosted-ios-plugin-umbrella.h"
+
+  export *
+  module * { export * }
+}

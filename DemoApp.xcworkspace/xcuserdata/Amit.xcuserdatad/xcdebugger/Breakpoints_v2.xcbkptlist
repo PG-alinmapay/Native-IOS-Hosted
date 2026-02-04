@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4CA486BA-6778-4661-B431-75B7C369D069"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D00F250-DAE8-4B61-9F0E-1B4883EE4367"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Urway/Urway/native/Urway/PaymentController/Worker/PaymentInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "263"
+            endingLineNumber = "263"
+            landmarkName = "PaymentInteractor"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB88AA31-B187-4FA0-BDD7-147122CCCCB8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Urway/Urway/native/Urway/PaymentController/Controller/PaymentViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "apiResult(result:response:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D9FDF29-A328-44F5-BE8E-F0E4B7A0C980"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Urway/Urway/native/Urway/PaymentController/Controller/PaymentViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "apiResult(result:response:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FEAAD561-B48F-46B4-A39C-0BBB99B61D0D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Urway/Urway/native/Urway/PaymentController/Controller/PaymentViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "apiResult(result:response:error:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FEAAD561-B48F-46B4-A39C-0BBB99B61D0D - ef72003c409c2534"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Urway.PaymentViewController.apiResult(result: Urway.paymentResult, response: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "Urway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Amit/Desktop/Sachin_work/iOS_APP/Urway_Hosted/hosted_ios/Pods/Urway/Urway/native/Urway/PaymentController/Controller/PaymentViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "139"
+                  endingLineNumber = "139"
+                  offsetFromSymbolStart = "7789">
+               </Location>
+               <Location
+                  uuid = "FEAAD561-B48F-46B4-A39C-0BBB99B61D0D - ef72003c409c2534"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Urway.PaymentViewController.apiResult(result: Urway.paymentResult, response: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "Urway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Amit/Desktop/Sachin_work/iOS_APP/Urway_Hosted/hosted_ios/Pods/Urway/Urway/native/Urway/PaymentController/Controller/PaymentViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "139"
+                  endingLineNumber = "139"
+                  offsetFromSymbolStart = "8065">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4EAE7963-2B81-4A50-970F-A0C88271E5BD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/iOS_Hosted_plugin/Sources/PaymentController/PaymentConfiguration.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "setup(parameters:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8878C42-913E-410E-9232-3138C7E88190"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/iOS_Hosted_plugin/Sources/Others/UMUtilities.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getController(_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "212C0B98-6425-4075-A64B-CDA1C8C80B1C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/iOS_Hosted_plugin/Sources/Others/UWConfiguration.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

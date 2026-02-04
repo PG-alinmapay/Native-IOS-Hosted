@@ -1,0 +1,35 @@
+PODS:
+  - hosted-ios-plugin (0.0.1)
+  - iOSDropDown (0.4.0)
+  - SnapKit (5.0.1)
+  - SwiftPublicIP (0.0.2)
+  - SwiftyMenu (0.6.5):
+    - SnapKit (~> 5.0.1)
+
+DEPENDENCIES:
+  - hosted-ios-plugin (from `../Plugin`)
+  - iOSDropDown
+  - SwiftPublicIP (~> 0.0.2)
+  - SwiftyMenu (~> 0.6.5)
+
+SPEC REPOS:
+  trunk:
+    - iOSDropDown
+    - SnapKit
+    - SwiftPublicIP
+    - SwiftyMenu
+
+EXTERNAL SOURCES:
+  hosted-ios-plugin:
+    :path: "../Plugin"
+
+SPEC CHECKSUMS:
+  hosted-ios-plugin: 85cd441cf20565bb7aa90f59c36bb471992b7592
+  iOSDropDown: ce9daa584eaa5567cafc1b633e3cc7eb6d9cea42
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftPublicIP: 541a07881cf504954e30237eaa99157b1aa50ca3
+  SwiftyMenu: 9f38e9a22fb9c01b889d33cc362ffc12de042dd2
+
+PODFILE CHECKSUM: 158c4e64a43080ca70f83639d279bbcba5a6225c
+
+COCOAPODS: 1.16.2
